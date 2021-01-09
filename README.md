@@ -1,2 +1,2 @@
-# OOP4200
-OOP4200 final project
+# OOP4200_GroupProject_Group2
+For this project you and your team will be creating a GUI simulation of the game Durak. Durak is a very popular card game in Russia and Eastern Europe. The object of Durak is getting rid of all of your cards. The player that cannot is the Durak or Fool. Overviews of Durak and its major variants are easily found on-line, including at Wikipedia. An excellent video tutorial is available on YouTube here.
